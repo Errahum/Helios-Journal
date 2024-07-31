@@ -6,7 +6,6 @@ Helios Journal is a simple calendar journal app designed to help users keep trac
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Resources](#resources)
 - [Contribute](#contribute)
 - [License](#license)
 - [Donate](#donate)
@@ -49,11 +48,6 @@ To set up the Helios Journal application, follow these steps:
 
 4. Your entries will be saved in a JSONL file located in the `entries` directory.
 
-## Resources
-
-- [tkcalendar Documentation](https://python-course.eu/tkcalendar.php)
-- [JSON Lines Specification](https://jsonlines.org/)
-
 ## Contribute
 
 Contributions are welcome! Please submit an issue or a pull request via GitHub.
@@ -61,7 +55,7 @@ Please contact me before contributing.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Donate
 
